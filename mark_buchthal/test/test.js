@@ -1,5 +1,4 @@
 
-
 var expect = require('chai').expect;
 var server = require(__dirname + '/../server');
 var net = require('net');
